@@ -58,11 +58,9 @@ contract ZKVoting {
 ```
 # Expected Output:
 
-![Uploading Screenshot 2025-04-28 121951.png…]()
+![Screenshot 2025-04-28 121951](https://github.com/user-attachments/assets/95479a4e-a53f-4c97-99d8-3b7df4f94ee3)
 
-![Uploading Screenshot 2025-04-28 121957.png…]()
-
-
+![Screenshot 2025-04-28 122150](https://github.com/user-attachments/assets/9c6ca186-9a66-4e42-a843-dee6eab06071)
 
 Voters commit their votes privately.
 
